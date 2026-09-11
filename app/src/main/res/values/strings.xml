@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Fitness Tracker</string>
+    <string name="nav_today">Today</string>
+    <string name="nav_workouts">Workouts</string>
+    <string name="nav_diet">Diet &amp; Calories</string>
+    <string name="nav_stats">Progress</string>
+    <string name="add_workout">Log Workout</string>
+    <string name="add_meal">Log Meal</string>
+    <string name="daily_calorie_goal">Calorie Goal</string>
+    <string name="calories_consumed">Consumed</string>
+    <string name="calories_burned">Burned</string>
+    <string name="calories_remaining">Remaining</string>
+    <string name="net_calories">Net Calories</string>
+    <string name="workout_history">Workout History</string>
+    <string name="diet_history">Meal Log</string>
+    <string name="quick_add">Quick Add</string>
+    <string name="no_workouts_today">No workouts recorded for this day.</string>
+    <string name="no_meals_today">No meals logged for this day.</string>
+</resources>

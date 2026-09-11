@@ -1,0 +1,6 @@
+{
+  "name": "Fitness Tracker",
+  "description": "Track daily workouts, exercises, diet meals, calories, and macronutrient goals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
